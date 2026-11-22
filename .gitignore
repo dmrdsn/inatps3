@@ -1,0 +1,8 @@
+build/
+*.elf
+*.self
+*.pkg
+*.map
+_ffmpeg_build/
+ffmpeg-ppu/
+ps3dev/
